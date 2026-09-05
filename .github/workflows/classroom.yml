@@ -26,6 +26,7 @@ jobs:
           C++ is ready.
         comparison-method: contains
         timeout: 10
+        max-score: 100
     - name: Autograding Reporter
       uses: classroom-resources/autograding-grading-reporter@v1
       env:
