@@ -60,14 +60,9 @@ MacOS/Linux:
 
 ```bash
 git add main.cpp
-git commit -m "hw1 제출"
+git commit -m "학번 이름"
 git push
 ```
 
 - **push가 곧 제출입니다.** 마감 전까지는 몇 번이든 다시 제출할 수 있습니다.
 - push하면 자동 채점이 실행됩니다. 저장소의 **Actions 탭**에서 최근 실행을 열어 채점 결과(✅/❌)를 확인하세요.
-
----
-
-## 💡 생각해 보기
-- `std::endl`과 `"\n"`의 차이는 무엇일까요?
